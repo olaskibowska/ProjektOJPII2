@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\bin\Debug\ProjektChaszOJPII.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\bin\Debug\ProjektChaszOJPII.exe
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\bin\Debug\ProjektChaszOJPII.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.exe
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProjektChaszOJPII\obj\Debug\ProjektChaszOJPII.Form2.resources

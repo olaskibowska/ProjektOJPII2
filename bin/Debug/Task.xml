@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista zadań-->
+<zadanie>
+  <zadanie body="nowe zadanie" />
+  <zadanie body="nowe zadanie 2" />
+</zadanie>
